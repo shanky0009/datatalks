@@ -1,14 +1,5 @@
-.DS_Store
-.idea
-*.tfstate
-*.tfstate.*
-**.terraform
-**.terraform.lock.*
-**google_credentials.json
-**logs/
-**.env
-**__pycache__/
-**.csv
+
 target/
-dbt_packages/
+dbt_modules/
 logs/
+dbt_packages/
