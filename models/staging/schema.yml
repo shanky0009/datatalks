@@ -4,8 +4,8 @@ version: 2
 sources:
     - name: staging
       database: forward-camera-339110
-      schema: cric_test
+      schema: cricket_data
 
       tables:
-        - name: innings_overs_2004
-        - name: match_info_2004
+        - name: innings_data
+        - name: match_info
