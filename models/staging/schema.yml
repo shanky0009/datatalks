@@ -7,5 +7,6 @@ sources:
       schema: cricket_data
 
       tables:
-        - name: innings_data
+        - name: runs_data_clustered_partition
+        - name: wickets_data_clustered_partition
         - name: match_info
